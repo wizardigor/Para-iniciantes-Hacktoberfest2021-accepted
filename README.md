@@ -38,6 +38,7 @@ Este ano, os primeiros 50.000 participantes que concluírem com sucesso o desafi
 -   Crie uma pasta com seu nome;
 -   Dentro da pasta com seu nome crie um arquivo Tarefa(numero).md (exemplo: Tarefa01.md) e outro resposta.php;  
 *Resolva uma ou todas as Tarefas*
+- Deixe seu nome e link no arquivo CONTRIBUTING.md
 
 ## Steps For Contribution
 
