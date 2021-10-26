@@ -7,3 +7,4 @@
 - [ ] Adicionei meu nome e link no arquivo CONTRIBITION.md  
 - [ ] Não usei palavras ofensivas  
 - [ ] Não fui preconceituoso(a) seja com etinias, orientação sexual ou qualquer outro tipo de peconceito
+- [ ] Dei uma estrelinha!
