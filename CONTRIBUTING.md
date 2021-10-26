@@ -9,7 +9,7 @@
             <kbd>
                 <img src="https://avatars3.githubusercontent.com/wizardigor?size=400" width="100px;" alt=""/>
             </kbd>
-            <br />
+            <br/>
             <sub>
                 <b>Igor Gomes</b>
             </sub>
@@ -17,13 +17,12 @@
         <br />
         :computer:
   </td>
-
     <td align="center">
         <a href="https://github.com/GabrieleAlmeida">
             <kbd>
                 <img src="https://avatars3.githubusercontent.com/GabrieleAlmeida?size=400" width="100px;" alt=""/>
             </kbd>
-            <br />
+            <br/>
             <sub>
                 <b>Gabriele Almeida</b>
             </sub>
@@ -31,22 +30,19 @@
         <br />
         :computer:
     </td>
-
     <td align="center">
         <a href="https://github.com/nathanussk">
             <kbd>
                 <img src="https://avatars.githubusercontent.com/u/53570115?v=4" width="100px;" alt=""/>
             </kbd>
-            <br />
+            <br/>
             <sub>
                 <b>Nathan Pereira</b>
-
             </sub>
         </a>
-        <br />
+        <br/>
         :computer:
     </td>
-
   </tr>
 </table>
 
