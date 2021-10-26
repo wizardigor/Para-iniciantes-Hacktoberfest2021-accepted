@@ -17,6 +17,20 @@
         <br />
         :computer:
     </td>
+
+    <td align="center">
+        <a href="https://github.com/nathanussk">
+            <kbd>
+                <img src="https://avatars3.githubusercontent.com/nathanussk?size=400" width="100px;" alt=""/>
+            </kbd>
+            <br />
+            <sub>
+                <b>Igor Gomes</b>
+            </sub>
+        </a>
+        <br />
+        :computer:
+    </td>
   
   </tr>
 </table>
