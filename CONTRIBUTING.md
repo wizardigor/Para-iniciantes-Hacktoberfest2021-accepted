@@ -16,7 +16,22 @@
         </a>
         <br />
         :computer:
+  </td>
+
+    <td align="center">
+        <a href="https://github.com/GabrieleAlmeida">
+            <kbd>
+                <img src="https://avatars3.githubusercontent.com/GabrieleAlmeida?size=400" width="100px;" alt=""/>
+            </kbd>
+            <br />
+            <sub>
+                <b>Gabriele Almeida</b>
+            </sub>
+        </a>
+        <br />
+        :computer:
     </td>
+
     <td align="center">
         <a href="https://github.com/nathanussk">
             <kbd>
@@ -25,6 +40,7 @@
             <br />
             <sub>
                 <b>Nathan Pereira</b>
+
             </sub>
         </a>
         <br />
