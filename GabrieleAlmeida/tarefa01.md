@@ -1,0 +1,1 @@
+## 4) Faça um programa que recebe um número e mostra seu dobro, seu triplo.
