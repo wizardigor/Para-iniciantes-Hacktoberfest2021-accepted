@@ -17,7 +17,20 @@
         <br />
         :computer:
     </td>
-  
+    <td align="center">
+        <a href="https://github.com/nathanussk">
+            <kbd>
+                <img src="https://avatars.githubusercontent.com/u/53570115?v=4" width="100px;" alt=""/>
+            </kbd>
+            <br />
+            <sub>
+                <b>Nathan Pereira</b>
+            </sub>
+        </a>
+        <br />
+        :computer:
+    </td>
+
   </tr>
 </table>
 
