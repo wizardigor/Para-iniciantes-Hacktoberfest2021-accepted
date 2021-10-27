@@ -1,0 +1,1 @@
+2) Faça um programa que calcule a média aritmética de 4 valores inteiros.
