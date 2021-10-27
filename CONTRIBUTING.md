@@ -31,6 +31,19 @@
         :computer:
     </td>
     <td align="center">
+        <a href="https://github.com/aman339">
+            <kbd>
+                <img src="https://avatars.githubusercontent.com/u/66405145?v=4" width="100px;" alt="aman339"/>
+            </kbd>
+            <br/>
+            <sub>
+                <b>Aman Kumar Choudhary</b>
+            </sub>
+        </a>
+        <br />
+        :computer:
+    </td>
+    <td align="center">
         <a href="https://github.com/nathanussk">
             <kbd>
                 <img src="https://avatars.githubusercontent.com/u/53570115?v=4" width="100px;" alt=""/>
