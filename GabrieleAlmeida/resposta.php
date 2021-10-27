@@ -38,6 +38,15 @@
 
         <h3 class="text-left text-center">Número digitado: <?php echo ($numero); ?></h3>
 
+        <h3 class="text-left">Questão 3:</h3>
+
+        <div class="card m-auto" style="width: 18rem;">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">Antecessor: <?php echo ($numero - 1); ?></li>
+                <li class="list-group-item">Sucessor: <?php echo ($numero + 1); ?></li>
+            </ul>
+        </div>
+
         <h3 class="text-left">Questão 4:</h3>
 
         <div class="card m-auto" style="width: 18rem;">
