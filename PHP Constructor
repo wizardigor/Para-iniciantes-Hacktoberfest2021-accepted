@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Constructor Example in PHP</title>
+</head>
+<body>
+<?php
+   // PHP Constructor Example Code - CodesCracker
+   class MyBaseClass
+   {
+      function __construct()
+      {
+         echo "I am in MyBaseClass constructor<br/>";
+      }
+   }
+   class AnotherClass extends MyBaseClass
+   {
+      function __construct()
+      {
+         // this will call the parent constructor, which is in MyBaseClass class
+         parent::__construct();
+         // after the above, below will be printed
+         echo "I am in AnotherClass constructor<br/>";
+      }
+   }
+   class AnotherThirdClass extends MyBaseClass
+   {   
+      // this will inherit the constructor of MyBaseClass class
+   }
+   // In MyBaseClass constructor
+   $objct = new MyBaseClass();
+   // In MyBaseClass and AnotherClass constructor
+   $objct = new AnotherClass();
+   // In MyBaseClass constructor
+   $objct = new AnotherThirdClass();
+?>
+</body>
+</html>
