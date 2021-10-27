@@ -45,8 +45,8 @@
 
         <div class="card m-auto" style="width: 18rem;">
             <ul class="list-group list-group-flush">
-                <li class="list-group-item">Dobro: <?php echo $dobro; ?></li>
-                <li class="list-group-item">Triplo: <?php echo $triplo; ?></li>
+                <li class="list-group-item">Resultado: <?php echo $resultado; ?></li>
+                
             </ul>
         </div>
     </div>
