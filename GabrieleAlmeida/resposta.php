@@ -19,28 +19,54 @@
 </head>
 
 <body>
-    <h1 class="text-center">Dobro e Triplo</h1>
-    <div class="container">
+    <div class="container col-md-6 my-3">
         <form method="post">
             <div class="input-group mb-3">
-                <input type="number" class="form-control outline-dark" name="numero" placeholder="Número" aria-label="Número" aria-describedby="button-addon2">
+                <div class="form-floating flex-grow-1">
+                    <input type="number" class="form-control outline-dark" id="numberInput" name="numero" placeholder="Digite um número" aria-label="Número" aria-describedby="button-addon2">
+                    <label for="numberInput">Digite um número</label>
+                </div>
                 <button class="btn btn-dark" type="submit" id="button-addon2">Calcular</button>
             </div>
         </form>
+
         <?php
 
         $numero = filter_input(INPUT_POST, 'numero', FILTER_SANITIZE_STRING);
-        $dobro = $numero * 2;
-        $triplo = $numero * 3;
 
         ?>
 
+        <h3 class="text-left text-center">Número digitado: <?php echo ($numero); ?></h3>
+
+        <h3 class="text-left">Questão 4:</h3>
+
         <div class="card m-auto" style="width: 18rem;">
             <ul class="list-group list-group-flush">
-                <li class="list-group-item">Dobro: <?php echo $dobro; ?></li>
-                <li class="list-group-item">Triplo: <?php echo $triplo; ?></li>
+                <li class="list-group-item">Dobro: <?php echo ($numero * 2); ?></li>
+                <li class="list-group-item">Triplo: <?php echo ($numero * 3); ?></li>
             </ul>
         </div>
+
+        <h3 class="text-left">Questão 5:</h3>
+
+        <div class="card m-auto" style="width: 18rem;">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item text-center">Tabuada</li>
+                <?php
+                $i = 1;
+                while ($i <= 10) { ?>
+
+                    <li class="list-group-item"><?php echo ($i); ?> x <?php echo ($numero . ' = ' . ($numero * $i)); ?></li>
+
+                <?php
+
+                    $i++;
+                }
+
+                ?>
+            </ul>
+        </div>
+        <br>
     </div>
 
 
