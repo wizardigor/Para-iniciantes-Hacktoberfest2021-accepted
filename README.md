@@ -69,12 +69,15 @@ down into multiple commits. You can use emoji here too :sparkles:
 ### 3. Lastly, submit your Pull Request
 Go through the checklist on the pull request template to guarantee your submission is valid. Our team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section.
 
-*Note:* Don't Forget to add `hacktoberfest-accepted` Label.
+*Note:* If everything is ok you will receive a `Hacktoberfest2021-accepted` label.
 
 
 Please check first and then send your codes with discription.
 
 *All the best for the event *
 
+This is what we just done(summary)
+![exemplo](https://user-images.githubusercontent.com/51889513/139121739-888ff80d-1038-49a1-b3b0-fb52faba595a.png)
 
-### Show some ❤ by starring the repository.
+
+# Show some ❤ by starring the repository.
