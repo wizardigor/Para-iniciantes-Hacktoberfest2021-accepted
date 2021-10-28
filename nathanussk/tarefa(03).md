@@ -1,0 +1,1 @@
+# 3) Faça um programa que recebe um número e mostra seu sucessor e seu antecessor.
