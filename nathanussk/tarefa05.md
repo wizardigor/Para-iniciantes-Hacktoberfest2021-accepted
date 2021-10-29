@@ -1,0 +1,1 @@
+5) Faça um programa para receber um número e mostrar sua respectiva tabuada.
