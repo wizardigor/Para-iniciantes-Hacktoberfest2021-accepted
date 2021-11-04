@@ -1,9 +1,13 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/wizardigor/Para-iniciantes-Hacktoberfest2021-accepted)
+
 # DEIXE SEU NOME E LINK PARA SEU GITHUB
 
 ## Contribuidores
 
 \*Copie tudo entre as primeiras tags <code><td aling="center></code> e <code>< /td></code> e cole tudo antes da tag <code>< /tr></code>,
 
+## contribuidores  
+    
 <table>
     <!-- line 1 -->
     <tr>  
@@ -184,3 +188,5 @@
         </td>
     </tr>
 </table>
+    
+![GitHub Contributors Image](https://contrib.rocks/image?repo=wizardigor/Para-iniciantes-Hacktoberfest2021-accepted) 
