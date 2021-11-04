@@ -188,5 +188,3 @@
         </td>
     </tr>
 </table>
-    
-![GitHub Contributors Image](https://contrib.rocks/image?repo=wizardigor/Para-iniciantes-Hacktoberfest2021-accepted) 
